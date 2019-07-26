@@ -1,3 +1,5 @@
+Interview question given applying for an internship at Apple.
+
 Given a TaskList
 TASKLIST = ['work,0650,0730',
           'read,1100,1115',
